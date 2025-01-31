@@ -6,9 +6,9 @@
 
 ### 💻 Passionate Backend Developer from India 🇮🇳
 
-🚀 Currently building **[CARLIFY](https://carlify-by-malviyarohitttt.vercel.app/)** – A platform for second-hand vehicles
-💡 Skilled in **MERN Stack**, always learning and exploring new technologies.  
-📩 Reach me at **rohitmalviya2324@gmail.com**
+🚀 Currently building **[CARLIFY](https://carlify-by-malviyarohitttt.vercel.app/)** – A platform for second-hand vehicles </br>
+💡 Skilled in **MERN Stack**, always learning and exploring new technologies.  </br>
+📩 Reach me at **rohitmalviya2324@gmail.com** </br>
 
 ---
 
