@@ -74,14 +74,14 @@
 ---
 
 ## 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malviyarohitttt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malviyarohitttt&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malviyarohitttt&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malviyarohitttt&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malviyarohitttt&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malviyarohitttt&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 
