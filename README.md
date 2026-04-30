@@ -4,7 +4,7 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
 </div>
 
-### 💻 Passionate Full Stack Developer
+### 💻 Passionate Backend Developer
 
 🚀 Currently building **[CARLIFY](https://carlify-by-malviyarohitttt.vercel.app/)** – A platform for second-hand vehicles </br>
 💡 Skilled in **MERN Stack + Modern Backend Technologies**, always learning and exploring new technologies. </br>
