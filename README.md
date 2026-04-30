@@ -1,13 +1,13 @@
 ## 🚀 Hi, I'm Rohit Malviya! 👋
 
-<div style="background-color:gray"  align="center">
+<div style="background-color:gray" align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
 </div>
 
 ### 💻 Passionate Full Stack Developer
 
 🚀 Currently building **[CARLIFY](https://carlify-by-malviyarohitttt.vercel.app/)** – A platform for second-hand vehicles </br>
-💡 Skilled in **MERN Stack**, always learning and exploring new technologies.  </br>
+💡 Skilled in **MERN Stack + Modern Backend Technologies**, always learning and exploring new technologies. </br>
 📩 Reach me at **rohitmalviya2324@gmail.com** </br>
 
 ---
@@ -26,6 +26,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo" />
 </div>
 
 
@@ -42,7 +43,6 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="12" />
 </div>
 
 ### ⚡ Backend:
@@ -51,9 +51,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prisma ORM-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
 </div>
 
 
@@ -67,9 +73,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
 </div>
-
 
 ---
 
@@ -81,7 +86,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malviyarohitttt&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
-
 
 ---
 
